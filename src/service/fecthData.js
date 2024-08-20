@@ -1,4 +1,4 @@
-const URL = 'http://localhost:3000/api'
+const URL = 'https://order-nest.vercel.app/api'
 
 export async function fetchGet (path) {
   try {

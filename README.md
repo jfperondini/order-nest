@@ -6,7 +6,7 @@ Permite aos usuários criar, gerenciar e acompanhar pedidos de forma eficiente e
 
 ## Disponivel
 
-Este projeto está hospedado na Vercel. Você pode acessá-lo [aqui](https://example.vercel.app).
+Este projeto está hospedado na Vercel. Você pode acessá-lo [aqui](https://order-nest.vercel.app/).
 
 ## Recursos
 
