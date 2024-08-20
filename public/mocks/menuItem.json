@@ -6,7 +6,7 @@
       "name": "Bruschetta Clássica",
       "price": 19.90,
       "description": "Fatias de pão tostado com tomate, manjericão e azeite de oliva.",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/bruschetta.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/bruschetta.jpg"
     },
     {
       "id": "",
@@ -15,7 +15,7 @@
       "name": "Caprese",
       "price": 21.90,
       "description": "Salada de tomate, mozzarella de búfala, manjericão e azeite.",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/caprese.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/caprese.jpg"
     },
     {
       "id": "",
@@ -24,7 +24,7 @@
       "name": "Arancini",
       "price": 24.90,
       "description": "Bolinhos de arroz recheados com mozzarella e fritos.",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/arancini.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/arancini.jpg"
     },
     {
       "id": "",
@@ -33,7 +33,7 @@
       "name": "Carpaccio",
       "price": 29.90,
       "description": "Fatias finas de carne bovina com molho de mostarda e parmesão.",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/carpaccio.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/carpaccio.jpg"
     },
     {
       "id": "",
@@ -42,7 +42,7 @@
       "name": "Margherita",
       "price": 29.90,
       "description": "Tomate, mozzarella e manjericão",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/marguerita.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/marguerita.jpg"
     },
     {
       "id": "",
@@ -51,7 +51,7 @@
       "name": "Quattro Stagioni",
       "price": 34.90,
       "description": "Tomate, mozzarella, cogumelos, presunto, alcachofras e azeitonas",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/quattro_stagioni.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/quattro_stagioni.jpg"
     },
     {
       "id": "",
@@ -60,7 +60,7 @@
       "name": "Napoletana",
       "price": 31.90,
       "description": "Tomate, mozzarella, anchovas, alcaparras e azeitonas",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/napoletana.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/napoletana.jpg"
     },
     {
       "id": "",
@@ -69,7 +69,7 @@
       "name": "Capricciosa",
       "price": 33.90,
       "description": "Tomate, mozzarella, presunto, cogumelos e alcachofras",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/capricciosa.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/capricciosa.jpg"
     },
     {
       "id": "",
@@ -78,7 +78,7 @@
       "name": "Prosciutto e Funghi",
       "price": 32.90,
       "description": "Tomate, mozzarella, presunto e cogumelos",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/prosciutto_funghi.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/prosciutto_funghi.jpg"
     },
     {
       "id": "",
@@ -87,7 +87,7 @@
       "name": "Quattro Formaggi",
       "price": 35.90,
       "description": "Tomate, mozzarella, gorgonzola, parmesão e ricota",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/quattro_formaggi.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/quattro_formaggi.jpg"
     },
     {
       "id": "",
@@ -96,7 +96,7 @@
       "name": "Chianti",
       "price": 89.90,
       "description": "Vinho tinto seco da Toscana, ideal para acompanhar pizzas com molho de tomate",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/chianti.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/chianti.jpg"
     },
     {
       "id": "",
@@ -105,7 +105,7 @@
       "name": "Prosecco",
       "price": 79.90,
       "description": "Espumante italiano leve e refrescante, excelente com pizzas mais leves",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/limoncello.webp"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/limoncello.webp"
     },
     {
       "id": "",
@@ -114,7 +114,7 @@
       "name": "Limoncello",
       "price": 69.90,
       "description": "Líquor de limão da região da Campânia, perfeito para limpar o paladar após a pizza",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/prosecco.webp"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/prosecco.webp"
     },
     {
       "id": "",
@@ -123,7 +123,7 @@
       "name": "Aqua Panna",
       "price": 14.90,
       "description": "Água mineral natural da Toscana, ideal para acompanhar qualquer refeição",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/agua_panna.webp"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/agua_panna.webp"
     },
     {
       "id": "",
@@ -132,7 +132,7 @@
       "name": "San Pellegrino Limonata",
       "price": 16.90,
       "description": "Refrigerante italiano de limão, refrescante e levemente gaseificado",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/san_pellegrino_limonata.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/san_pellegrino_limonata.jpg"
     },
     {
       "id": "",
@@ -141,7 +141,7 @@
       "name": "Espresso Italiano",
       "price": 9.90,
       "description": "Café espresso forte e encorpado, perfeito para encerrar a refeição",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/espresso_italiano.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/espresso_italiano.jpeg"
     },
     {
       "id": "",
@@ -150,7 +150,7 @@
       "name": "Tiramisu",
       "price": 24.90,
       "description": "Camadas de mascarpone, café e biscoito embebido em licor",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/tiramisu.webp"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/tiramisu.webp"
     },
     {
       "id": "",
@@ -159,7 +159,7 @@
       "name": "Panna Cotta",
       "price": 19.90,
       "description": "Delicada sobremesa italiana feita com creme de leite, baunilha e calda de frutas vermelhas",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/panna_cotta.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/panna_cotta.jpeg"
     },
     {
       "id": "",
@@ -168,7 +168,7 @@
       "name": "Cannoli Siciliano",
       "price": 22.90,
       "description": "Massa crocante recheada com creme de ricota e gotas de chocolate",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/cannoli_siciliano.avif"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/cannoli_siciliano.avif"
     },
     {
       "id": "",
@@ -177,7 +177,7 @@
       "name": "Gelato Italiano",
       "price": 16.90,
       "description": "Sorvete artesanal italiano em diversos sabores",
-      "photo": "http://localhost:3000/assets/trattoria_pizza/img/gelato_italiano.jpg"
+      "photo": "https://order-nest.vercel.app/assets/trattoria_pizza/img/gelato_italiano.jpg"
     },
     {
       "id": "",
@@ -186,7 +186,7 @@
       "name": "Batatas Rústicas",
       "price": 12.90,
       "description": "Batatas rústicas assadas com alho e ervas.",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/batatas_rusticas.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/batatas_rusticas.jpg"
     },
     {
       "id": "",
@@ -195,7 +195,7 @@
       "name": "Nachos com Queijo",
       "price": 19.90,
       "description": "Tortilhas de milho com queijo derretido e guacamole.",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/nachos_com_queijo.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/nachos_com_queijo.jpeg"
     },
     {
       "id": "",
@@ -204,7 +204,7 @@
       "name": "Chicken Tenders",
       "price": 22.90,
       "description": "Tiras de frango empanadas e fritas, servidas com molho ranch.",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/chicken_tenders.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/chicken_tenders.jpeg"
     },
     {
       "id": "",
@@ -213,7 +213,7 @@
       "name": "Mozzarella Sticks",
       "price": 18.90,
       "description": "Palitos de mozzarella empanados e fritos, servidos com molho marinara.",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/mozzarella_sticks.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/mozzarella_sticks.jpg"
     },
     {
       "id": "",
@@ -222,7 +222,7 @@
       "name": "Burger Clássico",
       "price": 24.90,
       "description": "Hambúrguer clássico com queijo cheddar, alface, tomate e molho especial",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/burger_classico.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/burger_classico.jpg"
     },
     {
       "id": "",
@@ -231,7 +231,7 @@
       "name": "Burger Bacon",
       "price": 27.90,
       "description": "Hambúrguer com bacon crocante, queijo cheddar e molho BBQ",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/burger_bacon.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/burger_bacon.jpg"
     },
     {
       "id": "",
@@ -240,7 +240,7 @@
       "name": "Smash Fries",
       "price": 12.90,
       "description": "Batatas fritas crocantes com tempero especial",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/smash_fries.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/smash_fries.jpeg"
     },
     {
       "id": "",
@@ -249,7 +249,7 @@
       "name": "Burger Vegano",
       "price": 29.90,
       "description": "Hambúrguer à base de plantas com queijo vegano, alface e tomate",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/burger_vegano.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/burger_vegano.jpg"
     },
     {
       "id": "",
@@ -258,7 +258,7 @@
       "name": "Refrigerante Cola",
       "price": 6.90,
       "description": "Refrigerante tradicional de cola",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/refrigerante_cola.avif"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/refrigerante_cola.avif"
     },
     {
       "id": "",
@@ -267,7 +267,7 @@
       "name": "Chá Gelado de Limão",
       "price": 7.90,
       "description": "Chá gelado refrescante com sabor de limão",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/cha_gelado_de_limao.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/cha_gelado_de_limao.jpeg"
     },
     {
       "id": "",
@@ -276,7 +276,7 @@
       "name": "Cerveja Artesanal IPA",
       "price": 14.90,
       "description": "Cerveja IPA com amargor acentuado e notas de frutas cítricas",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/cerveja_ipa.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/cerveja_ipa.jpeg"
     },
     {
       "id": "",
@@ -285,7 +285,7 @@
       "name": "Água Mineral",
       "price": 4.90,
       "description": "Água mineral sem gás, servida gelada",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/agua_mineral.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/agua_mineral.jpg"
     },
     {
       "id": "",
@@ -294,7 +294,7 @@
       "name": "Brownie com Sorvete",
       "price": 18.90,
       "description": "Brownie de chocolate servido com uma bola de sorvete de creme",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/brownie_com_sorvete.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/brownie_com_sorvete.jpeg"
     },
     {
       "id": "",
@@ -303,7 +303,7 @@
       "name": "Cheesecake de Morango",
       "price": 22.90,
       "description": "Cheesecake cremoso com cobertura de calda de morango",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/cheesecake_de_morango.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/cheesecake_de_morango.jpeg"
     },
     {
       "id": "",
@@ -312,7 +312,7 @@
       "name": "Milkshake de Oreo",
       "price": 19.90,
       "description": "Milkshake cremoso de Oreo com chantilly",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/milkshake_de_oreo.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/milkshake_de_oreo.jpeg"
     },
     {
       "id": "",
@@ -321,7 +321,7 @@
       "name": "Torta de Limão",
       "price": 17.90,
       "description": "Torta com base crocante, recheio de limão e cobertura de merengue",
-      "photo": "http://localhost:3000/assets/smash_sizzle/img/torta_de_limao.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smash_sizzle/img/torta_de_limao.jpeg"
     },
     {
       "id": "",
@@ -330,7 +330,7 @@
       "name": "Jalapeño Poppers",
       "price": 24.90,
       "description": "Pimentas jalapeño recheadas com cream cheese e bacon, fritas até ficarem crocantes.",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/jalapeno_poppers.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/jalapeno_poppers.jpeg"
     },
     {
       "id": "",
@@ -339,7 +339,7 @@
       "name": "Mini Ribs",
       "price": 39.90,
       "description": "Costelinhas de porco marinadas e grelhadas, servidas com molho barbecue.",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/mini_ribs.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/mini_ribs.jpeg"
     },
     {
       "id": "",
@@ -348,7 +348,7 @@
       "name": "Buffalo Wings",
       "price": 29.90,
       "description": "Asas de frango fritas cobertas com molho picante, servidas com molho blue cheese.",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/buffalo_wings.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/buffalo_wings.jpg"
     },
     {
       "id": "",
@@ -357,7 +357,7 @@
       "name": "Chicken Wings",
       "price": 34.90,
       "description": "Asas de frango fritas, servidas com molho picante",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/jalapeno_poppers.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/jalapeno_poppers.jpeg"
     },
     {
       "id": "",
@@ -366,7 +366,7 @@
       "name": "Costela Defumada",
       "price": 49.90,
       "description": "Costela de porco defumada com molho barbecue",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/costela_defumada.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/costela_defumada.jpeg"
     },
     {
       "id": "",
@@ -375,7 +375,7 @@
       "name": "Brisket",
       "price": 59.90,
       "description": "Peito bovino defumado lentamente com tempero especial",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/brisket.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/brisket.jpeg"
     },
     {
       "id": "",
@@ -384,7 +384,7 @@
       "name": "Pulled Pork",
       "price": 34.90,
       "description": "Carne de porco desfiada, servido com coleslaw",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/pulled_pork.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/pulled_pork.jpeg"
     },
     {
       "id": "",
@@ -393,7 +393,7 @@
       "name": "Cornbread",
       "price": 12.90,
       "description": "Pão de milho tradicional do sul dos EUA, servido quente",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/jalapeno_poppers.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/jalapeno_poppers.jpeg"
     },
     {
       "id": "",
@@ -402,7 +402,7 @@
       "name": "Whisky Bourbon",
       "price": 59.90,
       "description": "Whisky bourbon envelhecido, ótimo para acompanhar carnes defumadas",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/whisky_bourbon.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/whisky_bourbon.jpg"
     },
     {
       "id": "",
@@ -411,7 +411,7 @@
       "name": "Vinho Tinto Malbec",
       "price": 24.90,
       "description": "Vinho tinto encorpado com notas de frutas vermelhas e especiarias, ideal para acompanhar carnes grelhadas e defumadas.",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/vinho_tinto_malbec.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/vinho_tinto_malbec.jpg"
     },
     {
       "id": "",
@@ -420,7 +420,7 @@
       "name": "Cerveja Pilsen",
       "price": 16.90,
       "description": "Cerveja clara, refrescante e suave, ideal para acompanhar refeições",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/cerveja_pilsen.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/cerveja_pilsen.jpg"
     },
     {
       "id": "",
@@ -429,7 +429,7 @@
       "name": "Cerveja Stout",
       "price": 22.90,
       "description": "Cerveja escura, com sabores de malte torrado e notas de café e chocolate, ideal para harmonizar com carnes intensas.",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/cerveja_stout.webp"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/cerveja_stout.webp"
     },
     {
       "id": "",
@@ -438,7 +438,7 @@
       "name": "Pudim de Leite",
       "price": 12.90,
       "description": "Pudim tradicional de leite condensado com calda de caramelo",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/pudim_de_leite.jpg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/pudim_de_leite.jpg"
     },
     {
       "id": "",
@@ -447,7 +447,7 @@
       "name": "Banana Split",
       "price": 19.90,
       "description": "Banana com sorvete de chocolate, morango e baunilha, coberto com chantilly e calda de chocolate",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/banana_split.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/banana_split.jpeg"
     },
     {
       "id": "",
@@ -456,7 +456,7 @@
       "name": "Torta de Maçã",
       "price": 15.90,
       "description": "Torta de maçã servida quente com uma bola de sorvete de baunilha",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/torta_de_maca.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/torta_de_maca.jpeg"
     },
     {
       "id": "",
@@ -465,6 +465,6 @@
       "name": "Mousse de Chocolate",
       "price": 14.90,
       "description": "Mousse de chocolate belga, leve e cremoso",
-      "photo": "http://localhost:3000/assets/smoke_sear/img/mousse_de_chocolate.jpeg"
+      "photo": "https://order-nest.vercel.app/assets/smoke_sear/img/mousse_de_chocolate.jpeg"
     }
   ]

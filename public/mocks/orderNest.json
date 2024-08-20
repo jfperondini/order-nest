@@ -2,5 +2,5 @@
     "name": "Order Nest",
     "call": "Bateu aquela fome? Peça agora mesmo!",
     "redline": "Descubra os melhores estabelecimentos de delivery na sua cidade!",
-    "photo": "http://localhost:3000/assets/order_nest/order_nest.png"
+    "photo": "https://order-nest.vercel.app/assets/order_nest/order_nest.png"
 }
