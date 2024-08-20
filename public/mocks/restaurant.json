@@ -1,0 +1,29 @@
+[
+    {
+        "id": "b159e2f1-49b3-40f8-bcd4-dcb485f2fcb0",
+        "name": "Trattoria La Pizza",
+        "address": "Rua dos Trattorias, 123 - Bela Vista",
+        "location": "SP - São Paulo",
+        "hour": "Ter à Dom - 18h ás 23h30",
+        "photo": "http://localhost:3000/assets/trattoria_pizza/trattoria_pizza.jpg",
+        "background": "http://localhost:3000/assets/trattoria_pizza/trattoria_pizza_background.jpg"
+    },
+    {
+        "id": "d295d7bf-26a1-47f1-bfd0-246b44d2a52d",
+        "name": "Smash & Sizzle",
+        "address": "Av. Paulista, 1500 - Consolação",
+        "location": "SP - São Paulo",
+        "hour": "Ter à Dom - 18h ás 23h30",
+        "photo": "http://localhost:3000/assets/smash_sizzle/smash_sizzle.jpg",
+        "background": "http://localhost:3000/assets/smash_sizzle/smash_sizzle_background.jpg"
+    },
+    {
+        "id": "ac35b469-0b4d-4482-812f-34b9fd34e6e9",
+        "name": "Smoke & Sear",
+        "address": "Rua dos Bifes, 456 - Jardins",
+        "location": "SP - São Paulo",
+        "hour": "Ter à Dom - 18h ás 23h30",
+        "photo": "http://localhost:3000/assets/smoke_sear/smoke_sear.jpg",
+        "background": "http://localhost:3000/assets/smoke_sear/smoke_sear_background.jpg"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "type": "Entrada"
+    },
+    {
+        "id": "2",
+        "type": "Pizza"
+    },
+    {
+        "id": "3",
+        "type": "Sandiche"
+    },
+    {
+        "id": "4",
+        "type": "À la carte"
+    },
+    {
+        "id": "5",
+        "type": "Bebida"
+    },
+    {
+        "id": "6",
+        "type": "Sobremesa"
+    }
+]
